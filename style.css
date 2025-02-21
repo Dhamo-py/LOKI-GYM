@@ -1,0 +1,36 @@
+.User{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    justify-content: center;   
+    padding: auto; 
+    margin-left: 80%;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/2465431.jpg);
+    width: 80%;
+    height: 50%;
+    
+}
+
+input{
+    height: 35px;
+    margin: 10px;
+    border: 17px;
+    box-shadow: rgb(224, 7, 7);
+    padding: 20px;
+}
+
+button{
+    width: 50%;
+    height: 5%;
+    font-weight: bold;
+    font-size: medium;
+}
+
+img{
+    width: 250px;
+}

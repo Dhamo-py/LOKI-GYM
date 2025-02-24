@@ -11,8 +11,12 @@
 
 body{
     background-image: url(https://wallpaperaccess.com/full/2465431.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
     width: 100vw;
     height: 100vh;
+    
     
 }
 
@@ -32,6 +36,6 @@ button{
 }
 
 img{
-    width: 100px;
-    height: 100px;
+    width: 250px;
 }
+
